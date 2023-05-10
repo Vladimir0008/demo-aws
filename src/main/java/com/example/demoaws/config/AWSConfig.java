@@ -22,6 +22,6 @@ public class AWSConfig {
     }
 
     private AWSCredentials awsCredentials() {
-        return new BasicAWSCredentials("AKIA6EB35ZVFA4F7WVU5", "fuz8U6uUYgVWKF0zJHXRsf9RuUcFHGbNUv3rSmWF");
+        return new BasicAWSCredentials("AKIA6EB35ZVFA4F7WVU5", "XXXX");
     }
 }
